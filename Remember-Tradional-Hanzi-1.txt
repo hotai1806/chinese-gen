@@ -1,0 +1,1500 @@
+01.0001 一 yī     : one;
+01.0002 二 èr     : two;
+01.0003 三 sān    : three;
+01.0004 四 sì     : four; mouth animal-legs
+01.0005 五 wǔ     : five;
+01.0006 六 liù    : six; top-hat animal-legs
+01.0007 七 qī     : seven;
+01.0008 八 bā     : eight;
+01.0009 九 jiǔ    : nine;
+01.0010 十 shí    : ten;
+01.0011 口 kǒu    : mouth; entrance, gate, mouth
+01.0012 日 rì     : day, daytime; sun;
+01.0013 月 yuè    : moon, month;
+01.0014 田 tián   : field; farm; rice field
+01.0015 目 mù     : eye;
+02.0016 古 gǔ     : ancient, old; needle mouth
+02.0017 胡 hú     : recklessly, foolishly, wildly; ancient moon
+02.0018 吾 wú     : "I; my; our (ie: royal ""we"")" five mouth
+02.0019 朋 péng   : friend, pal, acquaintance, companion; moon moon
+02.0020 明 míng   : bright, clear; to understand (明白; míngbái); ALSO: the Ming dynasty; sun moon
+02.0024 唱 chàng  : to sing; to chant mouth 2-wagging-tongues
+02.0022 晶 jīng   : crystal, sparkling, bright, radiant; suns-everywhere
+02.0021 品 pǐn    : article, product, commodity; mouths-everywhere
+02.0023 昌 chāng  : prosperous; flourishing; 2-suns
+02.0025 早 zǎo    : early; morning; for a long time, as early as; sunflower stem-of-needles
+02.0026 旭 xù     : dawn; the rising sun, sun rise up at nine
+02.0027 世 shì    : generation, age, era; lifetime generation
+02.0028 胃 wèi    : stomach, belly; brain body
+02.0029 旦 dàn    : dawn, morning, day-break; floor sun
+02.0030 凹 āo     : concave, indented or depressed; sunken
+02.0031 凸 tū     : convex, protruding; bulge out
+03.0032 自 zì     : oneself, self; personal; drop eye
+03.0033 白 bái    : white, pure, unblemished; clear, plain drop sun
+03.0034 百 bǎi    : hundred, numerous; ceiling white-dove
+03.0035 皂 zào    : soap; black white dice/slice
+03.0036 中 zhōng  : center, middle; central; in the midst of; ALSO: China middle walking-stick
+03.0037 千 qiān   : thousand, a multitude; drop ten
+03.0038 舌 shé    : tongue; 1000 mouth
+03.0039 升 shēng  : metric liter MW (also written 公升; gōngshēng); 1000 needles
+03.0040 昇 shēng  : to raise, hoist; promote; ascend; sun carafe
+03.0041 丸 wán    : pill, pellet, small round object; ball baseball; drop pill
+03.0042 卜 bǔ     : fortune telling; prophesy; to divine; foretell; drop walkingstick
+03.0043 占 zhān   : to divine; practice divination; wand mouth ,to tell fortunes
+03.0044 上 shàng  : top, superior, above, highest; to go up, forge ahead; wand floor
+03.0045 下 xìa    : under, underneath, below, down; inferior; to bring down; ceiling wand
+03.0046 卡 kǎ     : card, punch card; above below
+03.0047 卓 zhuó   : profound, eminent, lofty; wand sunflower
+03.0048 朝 cháo   : dynasty, imperial court; ALSO: Korea; mist moon
+03.0049 嘲 cháo   : to ridicule, mock, deride, scorn; mouth dynasty
+04.0050 只 zhǐ    : only, merely, just, but; mouth animal-legs
+04.0051 貝 bèi    : shellfish; sea shell; money; shell animal-legs
+04.0052 貼 tiē    : to paste to, stick on, glue; attached to; clam divination
+04.0053 貞 zhēn   : virtuous, chaste, pure; loyal; wand clam
+04.0054 員 yuán   : employee, assistant; personnel, staff member; mouth shel
+04.0055 見 jiàn   : see, observe, behold; percieve; eye human-legs
+04.0056 元 yuán   : origin; first, primary; dollar; ALSO: Yuan dynasty; two human-legs
+04.0057 頁 yè     : page; leaf; one drop clam
+04.0058 頑 wán    : obstinate, stubborn; recalcitrant; beggining head
+04.0059 凡 fán    : ordinary, common, mundane; drop wind
+04.0060 肌 jī     : flesh, muscle; flesh table
+04.0061 負 fù     : to lose, to be burdened; negative (math); bound clam
+04.0062 勻 yún    : equal; evenly (divided); uniform; bound two
+04.0063 句 jù     : sentence, phrase, clause; MW for verse; boundup mouth
+04.0064 旬 xún    : a ten-day period bound day; decameron
+04.0065 勺 sháo   : spoon, ladle; (unit of volume = 10 ml); bound drops
+04.0066 的 de     : "[possessive marker]; as (dì) = ""aim"""; dove laddle; bull’s eye
+04.0067 首 shǒu   : head, chief, leader; first (occasion or thing); MW for poems; horns nose;
+05.0068 直 zhí    : straight, vertical, upright, erect; frank, candid; ten-eyes floor
+05.0069 置 zhì    : place, arrange, lay out, set up, set aside; net straight
+05.0070 具 jù     : tool, instrument, device; equipment; eye table
+05.0071 真 zhēn   : real, true, actual, genuine; ten tool
+05.0072 工 gōng   : work, labor, worker; working class; skill, (cp: 唱工; chànggōng; the art of singing)
+05.0073 左 zuǒ    : left, lefthand; unorthodox, improper;
+05.0074 右 yòu    : right, righthand; rightwing; by-ones-side mouth
+05.0075 有 yǒu    : have, own, possess;
+05.0076 賄 huì    : bribe; to offer a bribe shell; money possesed
+05.0077 貢 gòng   : tribute, gifts; work shell
+05.0078 項 xiàng  : item, thing; sum (of money); i-beam page
+05.0079 刀 dāo    : knife, dagger sword
+05.0081 切 qiē    : to cut, slice, chop 7 dagger
+05.0080 刃 rèn    : blade; edge of blade
+05.0082 召 zhào   : to call together, summon, convene; dagger mouth
+05.0083 昭 zhāo   : manifest, clear, obvious, evident; sun summon
+05.0084 則 zé     : rule, law, regulation; general principle; shell saber
+05.0085 副 fù     : secondary, auxiliary; deputy, assistant, vice-; wealth saber
+05.0086 丁 dīng   : [nail]; 4th (in order); man, cube fourth
+05.0087 叮 dīng   : sting (mosquito bite); to stick to a point; ask repeatedly; mouth spike
+05.0088 可 kě     : can; may; able to; spike mouth
+05.0089 哥 gē     : elder brother; can can
+05.0090 頂 dǐng   : top, summit, peak; to carry on the head; spike head; crest
+06.0091 乙 yǐ     : 2nd (in order), second class, ethanol; hook/fishook
+06.0092 子 zǐ     : child; offspring, seed wrapped-up; line=arms
+06.0093 孔 kǒng   : opening, hole, vent, aperture; child hook; cavity
+06.0094 吼 hǒu    : roar (of a lion), to howl; mouth cavity
+06.0095 了 le     : —ed [completed action marker]; child no-arms
+06.0096 女 nǚ     : female, woman
+06.0097 好 hǎo    : good, well, fine; woman child
+06.0098 如 rú     : to be like, be as good as; to comply with; if, as; woman mouth
+06.0099 母 mǔ     : mother woman drops/nips; mother
+06.0100 貫 guàn   : to pierce, pass through; to string together; mother shell
+06.0101 兄 xiōng  : elder brother mouth; human-legs
+06.0102 克 kè     : to subdue; to restrain, overcome; needle teenager
+07.0103 小 xiǎo   : small, tiny; insignificant; 3-small-drops
+07.0104 少 shǎo   : few, less; inadequate; small drop
+07.0105 吵 chǎo   : noisy; to make a racket, disturb; to squabble; mouth few
+07.0106 大 dà     : big, great, large, vast large
+07.0107 尖 jiān   : point, pinnacle; pointed, sharp; shrewd; small large; tip
+07.0108 夕 xī     : evening, sunset; (dusk = xì ); evening != moon
+07.0109 多 duō    : many, much, a lot of, numerous, multi-; 2-evenings/moon
+07.0110 夠 gòu    : to reach, be enough; adequate, sufficient; many sentence
+07.0111 外 wài    : outside, external; foreign; unofficial; evening magic-wand
+07.0112 名 míng   : name; title, rank; evening mouth
+07.0113 厚 hòu    : thick (for flat things); substantial, generous; cliff sun child
+07.0114 石 shí    : rock; stone; mineral; cliff mouth
+07.0115 砂 shā    : pebbles, gravel, sand; gritty; few stones
+07.0116 妙 miào   : wonderful, excellent; clever; woman few
+07.0117 肖 xiào   : to resemble, be like; resembling; small flesh
+07.0118 削 xiāo   : to peel, pare, whittle; to scrape; small flesh saber
+07.0119 光 guāng  : light; ray; brightness, lustre, glory; small human-leg
+07.0120 太 tài    : too; extremly; highest; senior; st.bernard drop
+07.0121 省 shěng  : to save, economize, use sparingly; province; few eyes
+07.0122 奇 qí     : strange, odd, weird; unexpected; st-bernard thomas-choo-choo/can
+08.0123 川 chuān  : stream, river; Sichuan (abbrev.)
+08.0124 州 zhōu   : state, province; drops stream
+08.0125 順 shùn   : to obey, submit to, follow; stream head
+08.0126 水 shuǐ   : water; liquid; walking-stick splashing
+08.0127 永 yǒng   : forever, always; perpetual(ly); drop water
+08.0128 求 qiú    : to request, beseech, demand; snowflake drop stroke-uniting-coupple
+08.0129 泉 quán   : fountain, spring; white water
+08.0130 原 yuán   : prairie, plain, grassland; primary, original; cliff spring; spring underneat a cliff; flatlands
+08.0131 願 yuàn   : to desire, want; hope; wish; flatlands heads
+08.0132 沖 chōng  : to rinse, steep, wash away; to clash, collide; drops-of-water middle
+08.0133 泳 yǒng   : to swim, dive; swimming; drops-of-water eternity
+08.0134 洲 zhōu   : continent; island; water state
+08.0135 沼 zhǎo   : pool, pond; swamp; drops-of-watter summon; marsh
+08.0136 沙 shā    : sand; powder; granulated; hoarse; water few
+08.0137 江 jiāng  : the Yangtze; large river; drops-of-water i-beam
+08.0138 汁 zhī    : juice; drops-of-water needle
+08.0139 潮 cháo   : tide, flow, current, movement; drops-of-water dynasty
+08.0140 源 yuán   : source, root; cause; water-drops flatlands
+08.0141 活 huó    : alive, living, lively; to live; water-drops tongues
+08.0142 消 xiāo   : to extinguish, vanish, disappear, melt away; water-drops candle
+08.0143 況 kuàng  : situation, condition; furthermore; drops-of-water teenager
+08.0144 河 hé     : river; galaxy; water can
+08.0145 湖 hú     : lake; water recklessly
+08.0146 測 cè     : to fathom, to conjecture, ponder; to estimate, predict, measure; water rule
+08.0147 土 tǔ     : earth, dirt, soil; land soil
+08.0148 均 jūn    : equal, even, fair, uniform; equally; soil uniform
+08.0149 肚 dù     : belly, abdomen, stomach; part-of-body soil
+08.0150 填 tián   : to fill in, complete (a form); soil truth
+08.0151 吐 tǔ     : to spit; mouth dirt
+08.0152 哇 wā     : "[sound of child's crying]"; mouth bricks; waaah!
+08.0153 寸 cùn    : "the width of a person's thumb"; drop ten chinese inch
+08.0154 封 fēng   : to seal; envelope; brick glue
+08.0155 寺 sì     : Tibetan Buddhist temple; soil glue
+08.0156 時 shí    : "time, hour, o'clock; when; tense [grammar]"; sun buddhist-temple
+08.0157 火 huǒ    : fire, flame;
+08.0158 灰 huī    : ash, dust; by-your-side fire
+08.0159 煩 fán    : troubled, vexed, annoyed, fed up; fire head
+08.0160 炎 yán    : flame; inflammation; -itis; fire fire
+08.0161 淡 dàn    : weak, thin, watery; bland, insipid; drop-of-water inflammation
+08.0162 災 zāi    : disaster, calamity, catastrophe; flood fire
+08.0163 照 zhào   : light up, illuminate, shine, reflect; photograph; evident cooking-fire
+08.0164 魚 yú     : fish; bound rice-field cooking-fire
+08.0165 漁 yú     : to fish; fishing; to seize, filch; water fish
+08.0166 堯 Yáo    : Emperor Yao (2358 - 2258 BCE), an ancient sage; clumps-of-dirt human-legs; Pigpen
+08.0167 燒 shāo   : to burn; to bake, cook, roast; fever; fire Pigpen
+08.0168 曉 xiǎo   : dawn, daybreak; to know, tell; sun pigpen
+09.0169 里 lǐ     : li, unit of length (0.5 km); in, inside; rice-field land
+09.0170 量 liàng  : quantity, capacity, amount; day-break li
+09.0171 埋 mái    : to bury, hide (away); dirt computer
+09.0172 黑 hēi    : black; dark, evil; Heilongjiang Prv. (abbrev.); horn-computer cooking-fire
+09.0173 點 diǎn   : "dot, speck, spot; point; o'clock"; black tell-fortunes
+09.0174 墨 mò     : ink; dark; Mexico (abbrev.); black soil
+09.0175 冒 mào    : to risk, dare, attempt; to give off, emit; hood two eyes
+09.0176 同 tóng   : same, similar, alike; in common, together with; one mouth hood
+09.0177 洞 dòng   : cave, hole; water monk
+09.0178 向 xiàng  : orientation, direction, to face; to, toward; drop helmet mouth
+09.0179 尚 shàng  : to esteem, value, put stock in; yet, still; small glass-cover mouth
+09.0180 字 zì     : letter; character; pronunciation; house child
+09.0181 守 shǒu   : to guard, observe, watch; to defend; house glue
+09.0182 完 wán    : to finish, be over; run out; done, complete; house adam/eve
+09.0183 實 shí    : solid; real, true; reality; house/roof pierce
+09.0184 宣 xuān   : to declare, announce, proclaim; house daybreak(sunrise-to-sunset)
+09.0185 宵 iāo    : night, nighttime, dark; house candle
+09.0186 安 ān     : peace, calm, quiet; peaceful, tranquil; to pacify; house woman
+09.0187 宴 yàn    : feast, banquet, party; to host a dinner; peaceful day (break peaceful and add day in the center)
+09.0188 寄 jì     : to mail, sen, transmit; to rely or depend on; strage house
+09.0189 富 fù     : rich, wealthy, abundant; to enrich; house wealth
+09.0190 貯 zhùi   : to store, save up, stockpile, hoard; clam house spike
+10.0191 木 mù     : tree; lumber, wood, wooden tree
+10.0192 林 lín    : woods, forest; grove; tree tree
+10.0193 森 sēn    : forest; wooded; gloomy; trees-everywhere
+10.0194 植 zhí    : to plant, grow; to establish; tree straight
+10.0195 杏 xìng   : apricot; mouth below the tree
+10.0196 呆 dāi    : foolish; stupid, simple dim-witted; talking tree(tree mouth)
+10.0197 枯 kū     : dried up, decayed, withered desiccated, emaciated; tree ancient
+10.0198 村 cūn    : village; rustic, vulgar; tree glue
+10.0199 相 xiāng  : mutual, reciprocal, each other; tree eye
+10.0200 本 běn    : book, notebook; root, basis, origin, source; tree slice
+10.0201 案 àn     : case, record, file; peaceful tree
+10.0202 未 wèi    : not yet, still not; tree low-high-dash
+10.0203 末 mò     : end, final, last; tree long-dash-high
+10.0204 沫 mò     : foam, froth, suds, lather; water last
+10.0206 妹 mèi    : younger sister; woman not-yet
+10.0205 味 wèi    : flavor, taste, smell, scent; mouth not-yet
+10.0207 查 chá    : to inspect, check, investigate; tree day-break
+10.0208 渣 zhā    : sediement, residue, dregs; water investigate
+10.0209 染 rǎn    : to dye; to contract (an illness), acquire (a bad habit); water baseball/9 tree
+10.0210 李 lǐ     : plum; tree child
+10.0211 桌 zhuō   : table; MW for table, desk; wand sun wood
+10.0212 若 ruò    : to seem, be like; similar; as, if; flower right
+10.0213 草 cǎo    : grass, straw; rough draft; flower sunflower
+10.0214 苦 kǔ     : to suffer from; suffering, hardship; painstakingly; bitter; flower ancient
+10.0215 寬 kuān   : wide, broad, vast, spacious; tolerant house flower eye legs drop; a flower house with an eye and human legs drops flowers as it walk wide
+10.0216 葉 yè     : leaf, petal; page; historic period; flower family-tree
+10.0217 莫 mò     : "nobody; not; don't, isn't"; flower sun st.bernard
+10.0218 模 mó     : to imitate; model, pattern, template; tree graveyard
+10.0219 漠 mò     : desert; cold, detachedl; indifferently; water graveyard
+10.0220 墓 mù     : grave, tomb; graveyard dirt
+10.0221 苗 miáo   : seedling; sprout; flower brain
+10.0222 瞄 miáo   : to aim, fix one’s eyes on; eye tomato-seedling
+11.0223 兆 zhào   : omen, sign; to foretell; million, mega portent
+11.0224 桃 táo    : peach; tree portent
+11.0225 犬 quǎn   : dog pooch; drop st.bernard
+11.0226 尤 yóu    : outstanding; especially, particularly; pooch human-leg; remarkable
+11.0227 默 mò     : silent, still, quiet; to write from memory; black pooch
+11.0228 然 rán    : thus, so, certainly, like this, in this manner; -ly; flesh pooch fire; sort of thing
+11.0229 哭 kū     : to cry, weep; to wail; chatterbox pooch
+11.0230 器 qì     : device, tool, utensil, instrument; 4-mouth-table pooch
+11.0231 臭 chòu   : stinking, smelly; to emit afoul odor; nose pooch
+11.0233 厭 yàn    : to loathe, dislike, detest; clif sun moon pooch
+11.0232 狗 gǒu    : "dog; [nb: 狗东西, gǒudōngxi, ""That son of a bitch!""]"; pack-of-wild-dogs sentences
+11.0234 壓 yā     : to crush, press; to oppress; detest ground
+11.0235 牛 niú    : ox, cow, bull cow
+11.0236 特 tè     : special (-ly); unusual, unique, extraordinary; cow buddhist-temple
+11.0238 浩 hào    : extensive, grand; vast (water); water oracle-cow
+11.0237 告 gào    : to tell, say, announce, inform (oracle-cow); cow mouth
+11.0239 先 xiān   : early; prior; former; in advance; first; cow human-legs
+11.0240 洗 xǐ     : to wash, cleanse, purify; to bathe; water before
+12.0241 介 jiè    : to introduce; to lie between; between umbrella (handle) walking-stick
+12.0242 界 jiè    : world,boundary, scope, extent; ricefield introduce
+12.0243 茶 chá    : tea; tea plant; flower umbrella tree/woodenpole
+12.0244 會 huì    : to meet, assemble, gather; group; association; ALSO: can, be able; meeting brainhorns waggingtongue
+12.0245 合 hé     : to fit, suit; to join, combine; to close, shut (eg: book); meeting mouth
+12.0246 哈 hā     : ha![the sound of laughter]; mouth fit
+12.0247 塔 tǎ     : pagoda, tower; dirt flower fit
+12.0248 王 wáng   : king, monarch
+12.0249 玉 yù     : jade; king drop
+12.0250 球 qiú    : ball, sphere; request ball
+12.0251 現 xiàn   : present, now, existing, current; jewel clam;
+12.0252 玩 wán    : to play, amuse oneself; to play jokes; ball beggining
+12.0253 狂 kuáng  : crazy, insane, mad; conceited, arrogant; pack-of-dog king
+12.0254 皇 huáng  : emperor; royal, imperial; dove king
+12.0255 煌 huáng  : brilliant, bright, shining, luminous; fire emperor
+12.0256 呈 chéng  : to submit, present (eg: a report); to petition; mouth king
+12.0257 全 quán   : all, whole, entire, complete; umbrella king
+12.0258 理 lǐ     : reason; logic; science; inner principle; jewel computer
+12.0259 主 zhǔ    : master; lord; host; drop king
+12.0260 注 zhù    : to inject; to pour into; water candlestick
+12.0261 金 jīn    : metal; money; gold; umbrella drop king
+12.0262 銅 tóng   : copper; metal monk
+12.0263 釣 diào   : to fish, go fishing to go fishin’; metal laddle
+12.0264 針 zhēn   : needle, pin; injection; gold needle
+12.0265 釘 dīng   : nail, spike; golden spike
+12.0266 銘 míng   : inscribed motto; to engrave; gold name
+12.0267 鎮 zhèn   : at ease, calm, cool, composed; to ease or relieve pain; metal truth
+13.0268 道 dào    : way, path, road; method, principle; truth, Tao; road heads
+13.0269 導 dǎo    : to lead; to guide; to conduct; way glue
+13.0270 迅 xùn    : rapid, speedy; road hook needle
+13.0271 造 zào    : to make; to build; to invent; declare-oraclecow road
+13.0272 巡 xún    : "to patrol; to make one's rounds"; flood road
+13.0273 逛 guàng  : to stroll; to visit; crazy road
+13.0274 車 chē    : car, vehicle; machine
+13.0275 連 lián   : one after another, successively; road car
+13.0276 蓮 lián   : lotus, water lily; paradise; flower oneafteranother
+13.0277 前 qián   : in front, forward; earlier, preceding; horns butcher
+13.0278 剪 jiǎn   : scissors; cut with scissors; dagger butchershop
+13.0279 輸 shū    : transport, carry, haul; vehicle slaughterhouse
+13.0280 逾 yú     : to exceed, go beyond; to jump over; road slaughterhouse
+13.0281 各 gè     : each; every; walking-legs mouth
+13.0282 格 gé     : pattern, standard, form; style; tree each
+13.0283 客 kè     : visitor, guest; customer; house each
+13.0284 額 é      : forehead; tablet, plaque; fixed; guest head
+13.0285 夏 xià    : summer; ceiling nose walking-legs
+13.0286 洛 luò    : "the ""Luò"" river in Shanxi Prv."; water each
+13.0287 落 luò    : to fall, drop; flower water each
+14.0288 冗 rǒng   : superfluous, extraneous; crown wind
+14.0289 沉 chén   : deep, profound; to lower, submerge, immerse; water superflous
+14.0290 軍 jūn    : chariot, army, military; soldiers, troops; crowned vehicle
+14.0291 輝 huī    : brightness, luster, brilliance; ray charriot
+14.0292 運 yùn    : to move, carry, transport; road chariot
+14.0293 冠 guān   : crown; cap, hat, crest; crown beginning glued
+14.0294 夢 mèng   : dream, visionary; wishful evening; flower crown eye
+14.0295 坑 kēng   : pit; to defraud; soil whirlwind
+14.0296 高 gāo    : high; tall; tall helmet
+14.0297 享 xiǎng  : enjoy; tall child
+14.0298 熟 shú    : ripe; done; cooked; enjoy bootle-pills campfire
+14.0299 亭 tíng   : pavilion; tiara spike
+14.0300 亮 liàng  : light; bright; tiara wind
+14.0301 京 jīng   : capital; Beijing (abbrev.); tall small
+14.0302 涼 liáng  : cool; cold water; capitolbuilding
+14.0303 景 jǐng   : scenery, circumstance; sun capital
+14.0304 就 jiù    : at once, right away; capital frankenpooch
+14.0305 周 zhōu   : circuit, lap, cycle; encircle; helmet lidded-crock lap
+14.0306 週 zhōu   : week; cycle; lap road
+14.0307 士 shì    : warrior, soldier, knight; scholar; expert
+14.0308 吉 jí     : lucky; Jilin Prv. (abbrev.); soldier mouth
+14.0309 買 mǎi    : to buy, purchase; eye oyster
+14.0310 賣 mài    : to sell; soldier buy
+15.0311 書 shū    : book, letter, document; writings brush sun
+15.0312 畫 huà    : a painting, picture, drawing; to draw; brush brain floor
+15.0313 劃 huá    : to scratch; to row or paddle a boat; drawing saber
+15.0314 攻 gōng   : to attack; to accuse; i-beam taskmaster-outfit
+15.0315 敗 bài    : be defeated, decline, fail clams taskmaster
+15.0316 故 gù     : ancient, old; reason, because; ancient taskmaster-outfit
+15.0317 救 jiù    : to save; to assist; to rescue to rescue; request taskmaster
+15.0318 敬 jìng   : to respect, venerate, revere; to salute; flower sentence taskmaster
+15.0319 敞 chǎng  : spacious; uncovered; esteem taskmaster
+15.0320 言 yán    : to speak; to say; talk; word; top-hat two mouth
+15.0321 警 jǐng   : guard, watch; alert, alarm; revere words
+15.0322 計 jì     : plan, plot; strategem; scheme; words needle
+15.0323 獄 yù     : prison, jail; case; lawsuit; pack-of-wild-dogs words chihuahua
+15.0324 討 tǎo    : to ask for, demand; to send a punitive expedition to condemn; words glue
+15.0325 訓 xùn    : instruction, example, pattern; to teach, train instruction; words stream
+15.0326 話 huà    : spoken words, speech, talk, conversation; dialect; language; words tongue
+15.0327 詩 shī    : poem; poetry, verse, ode poem; words buddist-temple
+15.0328 語 yǔ     : language, words; saying, expression; words i
+15.0329 讀 dú     : to read, study; pronounce; word sell
+15.0330 調 diào   : tune; tone; melody; to transfer, move; words lap
+15.0331 談 tán    : to converse, chat to discuss; words inflammation
+15.0332 這 zhè    : this; these this; road words
+16.0333 式 shì    : type; form; pattern; style; work arrow
+16.0334 試 shì    : to test, try; test, experiment; words style
+16.0335 戈 gē     : spear, lance; halberd
+16.0336 或 huò    : or, else; perhaps, maybe; mouth floor fiesta
+16.0337 賊 zéi    : burglar, thief; traitor shell; needle fiesta
+16.0338 載 zài    : load; laden; carry; transport, convey; thanksgiving vehicle
+16.0339 鐵 tiě    : iron; strong, solid, iron; submit gold thanksgiving
+16.0340 茂 mào    : lush, luxuriant; flower parade
+16.0341 成 chéng  : become, turn into; completed, finished; dagger parade
+16.0342 城 chéng  : city walls; city, town; dirt turns-into
+16.0343 誠 chéng  : honest; sincere; true; words turn-into
+16.0344 威 wēi    : power, might [ie: power], prestige; march woman
+16.0345 滅 miè    : extinguish; wipe out, exterminate to destroy; march of flame water
+16.0346 咸 xián   : all, everyone; together; united; march mouth
+16.0347 減 jiǎn   : decrease, subtract, diminish to reduce; march of mouth water
+16.0348 單 dān    : bill, list, form; single, sole, only; chatterbox brains needle
+16.0349 戰 zhàn   : war; battle; to fight; list fiesta
+16.0350 錢 qián   : coin, money, currency; gold float(fiesta fiesta)
+16.0351 淺 qiǎn   : shallow, not deep; superficial shallow; water float(fiesta fiesta)
+16.0352 賤 jiàn   : inexpensive, cheap, worthless; lowly shell float
+17.0353 止 zhǐ    : to stop, halt, prohibit to stop; footprint
+17.0354 步 bù     : footstep; a step; stages in a process; few footprints;
+17.0355 涉 shè    : ford stream, wade across water; footsteps water
+17.0356 頻 pín    : repeatedly, frequently; repetitious; footsteps head
+17.0357 肯 kěn    : to agree; to consent; willing; footprint flesh
+17.0358 企 qǐ     : to look forward to, plan a project; stand on tiptoe; umbrella stop
+17.0359 歲 suì    : age, years, years old; few footprints march
+17.0360 武 wǔ     : martial; military; one stopped arrow
+17.0361 賦 fù     : tax, taxation, levy; bestow on, endow with; clam military
+17.0362 正 zhèng  : right, proper, correct; to correct; one footprint
+17.0363 政 zhèng  : politics; government; political; correct taskmaster
+17.0364 定 dìng   : to determine, decide, settle on; house mending
+17.0365 走 zǒu    : to walk, move; to go, leave; ground mending
+17.0366 超 chāo   : to overtake, exceed, transcend; ultra—, super—; walk summoned
+17.0367 越 yuè    : to exceed, surpass; to climb over; walk parade
+17.0368 是 shì    : to be, is, am, are; to be; yes; sun mending
+17.0369 題 tí     : topic, subject; headline; to-be page
+17.0370 建 jiàn   : to establish, to build, found, set up; strech brush
+17.0371 延 yán    : to prolong, extend, delay; stretch drop/stopper footprint
+17.0372 誕 dàn    : birth; birthday, nativity; bear children, give birth; words prolong
+17.0373 楚 chǔ    : distinct; clear; orderly; woods zoo
+17.0374 礎 chǔ    : foundation, base; stone clear
+18.0375 衣 yī     : clothes top-hat folds-of-clothing; cloak bandana top hat and scarf
+18.0376 裡 lǐ     : inside, interior, within; cloak computer
+18.0377 哀 āi     : sorrow; grief; pity; to grieve for, lament; tophat mouth scarf
+18.0378 袁 yuán   : yuan [a common surname]; lidded crock scarf
+18.0379 遠 yuǎn   : far, distant, remote; yuan road
+18.0380 壞 huài   : bad; evil; rotten, spoiled, broken down; dirt top-hat eye snowflake scarf
+18.0381 初 chū    : at first; (at the) beginning; junior, basic (level) elementary; cloak dagger
+18.0382 巾 jīn    : towel, scarf, turban towel
+18.0383 布 bù     : cotton cloth, textiles, linen; by-side towel
+18.0384 帽 mào    : hat, cap; towel risk
+18.0385 幕 mù     : curtain, screen; tent; grave towel
+18.0386 棉 mián   : cotton; cotton padded; tree white-towel
+18.0387 幫 bāng   : to assist, support, help; seal white-towels
+18.0388 市 shì    : market, fair; city; top-hat towel
+18.0389 肺 fèi    : lung; flesh market
+18.0390 帶 dài    : belt, sash, band, girdle, strap; buckle/sash apron
+18.0391 滯 zhì    : sluggish, stagnant ; to block up, obstruct; water sashed
+18.0392 刺 cì     : thorn, sting, prick; to pierce, stab, thrust; thorn saber
+18.0393 制 zhì    : system; to regulate; cow belt saber
+18.0394 製 zhì    : to make, manufacture; produce; system clothing
+18.0395 云 yún    : to say, speak [clasical] to utter; rising cloud
+18.0396 雨 yǔ     : rain; rainy
+18.0397 雲 yún    : cloud; Yunnan (abbrev.); rain rising-cloud
+18.0398 雷 léi    : thunder; rain ricefield
+18.0399 電 diàn   : electricity; electric, electrical; rain (pic-of-kite)
+18.0400 霜 shuāng : frost; weather one-another
+18.0401 冰 bīng   : ice; ice water
+18.0402 冬 dōng   : winter; walking-legs ice
+18.0403 天 tiān   : day; sky; heaven; ceiling st-bernard
+18.0404 夭 yāo    : to die prematurely; tender; gentle; halo st-bernard; die young
+18.0405 喬 qiáo   : pretend; tall, lofty; proud, stately; die-young tall; angel
+18.0406 橋 qiáo   : bridge; tree angel
+18.0407 嬌 jiāo   : attractive; lovable; pampered; tender; delicate; frail; woman angel
+18.0408 立 lì     : set up; to stand; erect; vase
+18.0409 泣 qì     : to sob to weep; vase water
+18.0410 站 zhàn   : station; to stand, halt, stop; vase tell-fortune
+18.0411 章 zhāng  : chapter, section sunflower; vase chapter
+18.0412 競 jìng   : to compete, contend, vie, struggle; teenagers standing-up
+18.0413 帝 dì     : emperor, sovereign, ruler; apron standing-up
+18.0414 童 tóng   : boy; juvenile, kid, kids; standing-(on) computer
+18.0415 鐘 zhōng  : bell; clock, time (as measured in hours and minutes); metal juvenile
+18.0416 商 shāng  : commerce, business, trade; standing animal-legs helmet; salesman
+18.0417 適 shì    : to fit, to suit, suitable; appropriate; road antiques
+18.0418 敵 dí     : enemy, foe, rival; resist; antique taskmaster
+18.0419 匕 bǐ     : an ancient type of spoon; ancient spoon
+18.0420 北 běi    : north, the north; northern, northward 2x-sitting-on-ground
+18.0421 背 bèi    : the back of the body, backside; north body
+18.0422 比 bǐ     : "to compare (particle used for comparison and —er than); two-spoons
+18.0424 混 hùn    : to mix, blend, mingle; water descendants
+18.0423 昆 kūn    : descendant; elder brother; sun compare
+18.0425 皆 jiē    : all; everybody; each and every; in all cases; compare white
+18.0426 此 cǐ     : this [literary] these; footprint spoon;
+18.0427 些 xiē    : some, somewhat; few; several; this two
+18.0428 它 tā     : it (used for things); house sitting-on-ground
+18.0429 旨 zhǐ    : purport; aim; purpose; ancient spoon sun
+18.0430 脂 zhī    : fat, grease; body-part purpose
+18.0431 每 měi    : each, every; lying mother
+18.0432 梅 méi    : small plum; every tree
+18.0433 海 hǎi    : ocean; sea; every water
+18.0434 乞 qǐ     : to beg; lying-down hook
+18.0435 吃 chī    : to eat; eradicate; destroy; mouth beg
+18.0436 乾 gān    : dry; clean; mist beg
+18.0437 複 fù     : to repeat, duplicate; again, repeatedly; cape double-back
+18.0438 腹 fù     : abdomen; stomach; belly; body double-back
+18.0439 欠 qiàn   : to lack, owe; deficient; pic of someone bend elbow to yawn as lack of interest
+18.0440 吹 chuī   : to blow, blast, puff; to boast, brag; mouth lack
+18.0441 歌 gē     : song; lyrics; can-can lack
+18.0442 軟 ruǎn   : soft; flexible, pliable; car/vehicle yawn
+18.0443 次 cì     : nth; number (of times); order; sequence; next; second(ary); ice lack
+18.0444 資 zī     : resources, capital, property, assets; to provide, supply, support; next shell
+18.0445 姿 zī     : looks; appearance; demeanor; next woman
+18.0446 諮 zī     : to consult with, seek advice from; words secondary mouth
+19.0448 培 péi    : to cultivate; to bank up with dirt; soil muzzle
+19.0447 賠 péi    : to pay damage, to compensate; clam muzzle
+19.0449 音 yīn    : sound, tone, pitch; news; vase sun
+19.0450 暗 àn     : dark, gloomy; hidden, covert, secret; sun sound
+19.0452 識 shí    : to recognize, understand, know; knowledge; words kazoo
+19.0451 韻 yùn    : rhyme; sound employees
+19.0453 幟 zhì    : flag; pennant, streamer; towel kazoo
+19.0454 竟 jìng   : unexpectedly; actually; to go so far as to mirror standing-on;standing sun human legs; mirror
+19.0455 鏡 jìng   : mirror; lens; glasses; metal mirror
+19.0456 境 jìng   : border, boundary, territory; land mirrors
+19.0457 亡 wáng   : to die, perish; deceased; top-hat hook
+19.0458 盲 máng   : blind; unperceptive, shortsighted; perished eyes
+19.0459 妄 wàng   : absurd; preposterous; perish woman
+19.0460 望 wàng   : to hope, expect, gaze (into the distance); perish flesh king
+19.0461 方 fāng   : square; quadrilateral; direction; top-hat dagger; compass
+19.0462 妨 fáng   : to obstruct, hamper, impede, hinder, harm; woman compass
+19.0463 放 fàng   : to release, free, let go, let out; compass taskmaster
+19.0464 激 jī     : to arouse, incite, excite, stimulate; white water release
+19.0465 於 yú     : [all-purpose preposition] in; at; to; from; by; compass umbrella ice
+19.0466 旁 páng   : side; by side, close by, near; standing crown compass
+19.0467 兌 duì    : to cash, convert, exchange; horns teenager
+19.0468 脫 tuō    : to undress, shed, take off; to escape, get away from; flesh devil
+19.0469 說 shuō   : to speak, say, talk; words devil
+19.0470 曾 céng   : formerly, already; at some time in the past; before; once; horns brain-on-horns sun
+19.0471 增 zēng   : to increase, add, expand, augment; soil increase
+19.0472 贈 zèng   : give a present; to bestow, donate, confer; shell increase
+19.0473 東 dōng   : east, the east; eastern, eastward; tree sun
+19.0474 棟 dòng   : building ,the main beams supporting a house; tree east
+19.0475 凍 dòng   : to freeze; cold ice east
+20.0476 也 yě     : also, too, in addition, as well also; pic of scorpion
+20.0477 她 tā     : she; her; woman scorpion
+20.0478 地 dì     : earth; ground; field; place; land; soil scorpion
+20.0479 池 chí    : pond; reservoir; moat; water scorpion
+20.0480 蟲 chóng  : insect; worm; insect/worms-everywhere
+20.0481 蛇 shé    : snake, serpent; insect/worm it
+20.0482 蛋 dàn    : egg; oval shaped; zoo worm
+20.0483 風 fēng   : wind, air, atmosphere; style, custom, trend; rumor; gossip; wind drops-of worms; windstorm
+20.0484 諷 fěng   : to satirize, mock; words windstorm
+20.0485 己 jǐ     : self, oneself; snake
+20.0486 改 gǎi    : to change, alter, correct; snake task-master
+20.0487 記 jì     : to remember, mark, note, keep in mind; to record; words snake
+20.0488 已 yǐ     : already; finished; to stop, cease; snake-mouth-closed
+20.0490 泡 pào    : bubbles, foam; soak; water wrap
+20.0489 包 bāo    : to wrap, pack; a bundle, package bind-up; snakeskin
+20.0491 起 qǐ     : to rise, get up, stand up; to begin, establish; walk snakeskin
+20.0492 家 jiā    : home; family; —ist, —er, —ian; house sow
+20.0493 場 chǎng  : site, place, courtyard, open space, field; soil piggy-bank
+20.0494 湯 tāng   : soup, gravy, broth; water piggy-bank
+20.0495 羊 yáng   : sheep; horns body-like-cow
+20.0496 美 měi    : beautiful, America (abbrev.) large sheep
+20.0497 洋 yáng   : ocean, sea; foreign; water sheep
+20.0498 鮮 xiān   : fresh, new, vibrant; fish sheep
+20.0499 達 dá     : to attain, achieve, reach, realize; road soil sheep
+20.0500 樣 yàng   : appearance; pattern, shape, form; tree sheep eternity
+20.0501 差 chà    : to fall short of; wool i-beam
+20.0502 集 jí     : to gather, collect; collected works; turkey tree
+20.0504 準 zhǔn   : rule, guideline, a standard; regular, standard; water turkey needle
+20.0503 進 jìn    : to advance, progress; to enter, come in; turkey road
+20.0505 誰 shéi   : who? whom? whose? anyone?; words turkey
+20.0506 售 shòu   : to sell, to vend; turkey mouth
+20.0507 雖 suī    : although; even if, even though; insect mouth turkey
+20.0508 確 què    : sure, certain; reliable, true; stone turkey-house
+20.0509 午 wǔ     : noon; toy horse
+20.0510 許 xǔ     : to allow, permit; to promise; words stick-horse
+20.0511 羽 yǔ     : feather; feather feather
+20.0512 習 xí     : to practice, study; flapping wings; feathers dove
+20.0513 翔 xiáng  : to soar sheep wings; sheep feathers
+21.0514 困 kùn    : to surround, beseige; to be surrounded; pent-in tree
+21.0515 固 gù     : hard; strong; solid; sure; pent-in ancient
+21.0516 國 guó    : country; state; nation; pent-in or
+21.0517 圓 yuán   : circle; round, circular, spherical; full(moon); pent-in employee
+21.0518 因 yīn    : cause, reason; because a cause; pent-in st-bernard
+21.0519 園 yuán   : garden; park, orchard park; pent-in yuan
+21.0520 回 huí    : to go back, turn around, return; pent-in mouth
+21.0521 迴 huí    : to revolve; curve; road return
+21.0522 圖 tú     : picture, drawing, diagram, chart; to plan; picture; pent-in mouth top-hat return
+21.0523 店 diàn   : inn, store, shop; cave tell-fortunes
+21.0524 庫 kù     : warehouse, storehouse; armory, treasury; cave car
+21.0525 褲 kù     : trousers; pants trousers; cloak warehouse
+21.0526 廠 chǎng  : cliff, slope; factory, plant, yard, depot; cave spacious
+21.0527 床 chuáng : bed; couch cave wood; cave wood
+21.0528 麻 má     : hemp, jute, flax; sesame hemp; cave woods
+21.0529 心 xīn    : heart;
+21.0530 忘 wàng   : to forget; to overlook, neglect; perish heart-organ
+21.0531 忍 rěn    : to beat; to endure, tolerate to endure; blade heart
+21.0532 認 rèn    : to recognize, admit; words endure
+21.0533 志 zhì    : aspiration, the will, determination, purpose; soldier heart
+21.0534 誌 hì     : annals, write down, record; magazine; word aspirations
+21.0535 思 sī     : to think, consider; brains heart
+21.0536 意 yì     : thought, notion, idea, opinion; to think; sound heart
+21.0537 想 xiǎng  : would like; to wish, want; to think, believe, suppose; one-another heart
+21.0538 息 xī     : breath; rest, put stop to, cease, end; nose heart
+21.0539 恐 kǒng   : afraid; frightened; to fear; work ordinary heart
+21.0540 感 gǎn    : to feel; to move, touch, affect; everybody heart
+21.0541 憾 hàn    : regret, remorse; state-of-mind feel
+21.0542 憂 yōu    : worried; sad, grieved; ceiling nose crown heart walking-legs.
+21.0543 怕 pà     : to dread, to be afraid, fear; state-of-mind dove
+21.0544 忙 máng   : busy; state-of-mind perish
+21.0545 慣 guàn   : accustomed to; used to; pierce state-of-mind
+21.0546 懷 huái   : to cherish, think of; bosom, breast; state-of-mind top-hat scarf eyeball snowflake
+21.0547 必 bì     : certainly; must; will; necessarily; heart no-more
+22.0548 手 shǒu   : hand
+22.0549 看 kàn    : to see, look at; hand eye
+22.0550 拿 ná     : to hold, seize, take; to catch apprehend; fit hand
+22.0551 我 wǒ     : I, me; hand fiesta
+22.0552 義 yì     : justice; righteousness; proper conduct; i sheep
+22.0553 議 yì     : to deliberate; ceremony, rites gifts; admire; words righteous
+22.0554 蟻 yǐ     : ants; insect righteousness
+22.0555 抱 bào    : "to hold, carry (in one's arms); to hug or embrace"; finges wrap
+22.0556 抗 kàng   : to combat, resist, fight, defy; finger whirlwind
+22.0557 批 pī     : to criticize; to ascertain; finger compare
+22.0558 招 zhāo   : to beckon to provoke; to recruit; finger summon
+22.0559 打 dǎ     : to beat, strike, hit; finger spike
+22.0560 指 zhǐ    : finger; to point, indicate; finger purpose
+22.0561 持 chí    : to support, manage, direct, maintain; finger buddhist-temple
+22.0562 括 kuò    : to enclose, include; fingers tongue
+22.0563 提 tí     : to hold in hand, lift in hand; finger is
+22.0564 揮 huī    : to brandish, to weild; to squander, scatter; finger charriot
+22.0565 推 tuī    : to push, shove; to refuse (responsibility); finger turkey
+22.0566 接 jiē    : to welcome, to extend; fingers vase woman
+22.0567 掛 guà    : to hang, put up, suspend; finger brick wand
+22.0568 按 àn     : to press (with the hand); pressing down (in painting); finger peaceful
+22.0569 掉 diào   : to drop; to fall; finger eminent
+22.0570 拉 lā     : to pull, draw, drag; to play (string instrument); finger vase
+22.0571 啦 la     : final particle of assertion (le + a); mouth pull
+22.0572 找 zhǎo   : to try to find, seek, look for; finger fiesta
+22.0573 研 yán    : to grind, rub; study, research; stone two-hands
+22.0574 弄 nòng   : to play with, fool with, mess around with; ball two-hands
+22.0575 鼻 bí     : nose; nostrils brain two-hands
+22.0576 刑 xíng   : punishment, penalty; two-hands saber
+22.0577 型 xíng   : pattern, model, mold mold; punishment(two-hands saber) soil
+22.0578 才 cái    : ability, talent, gift, endowment genius; genie-out-of-bottle
+22.0579 財 cái    : money, wealth, riches, property, valuables; clam genie-out-of-bottle
+22.0580 存 cún    : deposit; to store, keep to deposit
+22.0581 在 zài    : (located) at, in; exist; [progressive tense marker]; genie-in-the-bottle soil
+22.0582 乃 nǎi    : thus, so; therefore, thereupon; fist
+22.0583 奶 nǎi    : "milk; woman's breasts; nurse"; woman fist
+22.0584 及 jí     : to extend, reach, come up to; outstreched-hands
+22.0585 吸 xī     : to breathe, inhale, suck in, absorb; mouth hands-outstreched
+22.0586 史 shǐ    : history; mouth tucked-under-arm
+22.0587 更 gèng   : more; even more; further; still; sunset tucked-under-arm
+22.0588 硬 yìng   : hard, stiff, strong, firm; stone even-more
+22.0589 又 yòu    : (once) again; also; both... and... ; crotch; right hand
+22.0590 友 yǒu    : friend; by-ones-side crotch
+22.0591 雙 shuāng : two; double; pair; both; two-turkeys croch
+22.0592 隻 zhī    : MW for one of a pair ; remove a turkey from pair; one of a Pair
+22.0593 護 hù     : to protect, guard, defend, shelter; words birds-of-prey
+22.0594 獲 huò    : to catch, obtain, to seize, capture; pack-of-wild-dogs birds-of-prey
+22.0595 觀 guān   : to look at, watch, observe, behold; stork shell
+22.0596 歡 huān   : joyous; happy; pleased [stork] yawn
+22.0597 投 tóu    : to throw, cast, fling, pitch finger missile
+22.0598 沒 méi    : "not have; don't have; isn't any; [negative verbal prefix]"; water missile
+22.0599 設 shè    : to set up, arrange, establish, found; word missile
+22.0600 股 gǔ     : thighs, haunches, rump; share
+22.0601 支 zhī    : branch; division; offshoot; to disperse; needle croch
+22.0602 技 jì     : skill; finger branch
+22.0603 枝 zhī    : branches, limbs; branch off tree branch
+22.0604 叔 shū    : uncle (in direct address); above small croch
+22.0605 督 dū     : to supervise; uncle eye
+22.0606 寂 jì     : lonely, lonesome house uncle
+22.0607 反 fǎn    : wrong side out (or up); anti— drag crotch against
+22.0608 板 bǎn    : board, plank, slab tree against
+22.0609 返 fǎn    : to return (to) road against
+22.0610 派 pài    : clique, group, faction water drag bandana; water drag bandana
+22.0611 脈 mài    : blood vessels, veins, arteries flesh drag bandana primitive meaning is vulture (powerful clawed animal)
+22.0612 爪 zhǎo   : claw, talon
+22.0613 抓 zhuā   : to grab, snatch, catch; to arrest
+22.0614 采 cǎi    : collect, gather; pick, pluck
+22.0615 採 cǎi    : gather, collect; pick, select
+22.0616 菜 cài    : dish (food); vegetables
+22.0617 受 shòu   : to bear, endure, accept
+22.0618 授 shòu   : to teach, instruct; to award, grant confer
+22.0619 愛 ài     : love; to love, be fond of, like
+22.0620 雄 xióng  : male of species; hero; manly grand
+22.0621 台 tái    : platform
+22.0622 治 zhì    : to rule; govern; to manage
+22.0623 始 shǐ    : to begin, commence
+22.0624 去 qù     : to go, leave
+22.0625 法 fǎ     : method, way; Buddhist teaching; France (abbrev.)
+22.0626 至 zhì    : until; reach, arrive; extremely, very
+22.0627 室 shì    : room
+22.0628 到 dào    : to go, arrive; to (a place); until (a time); up to to arrive
+22.0629 互 hù     : mutual
+22.0630 充 chōng  : fill, be full, supply sufficient
+22.0631 育 yù     : to nourish, rear education
+22.0632 流 liú    : to flow, spread, circulate to flow
+22.0633 梳 shū    : comb
+23.0634 山 shān   : mountain; hillx
+23.0635 出 chū    : to go out, come out; to go beyond; MW for stage performances to exit
+23.0636 擊 jī     : to hit, strike; to break to beat
+23.0637 密 mì     : secret; confidential secret
+23.0638 入 rù     : to enter to enter
+23.0639 內 nèi    : inside; inner; internal; within; interior
+23.0640 吶 nà     : battle cry, yell out loud, shout to holler
+23.0641 分 fēn    : to divide; minute part
+23.0642 貧 pín    : poor, impoverished, needy impoverished
+23.0643 公 gōng   : public, common
+23.0644 松 sōng   : pine; loose pine tree
+23.0645 谷 gǔ     : valley
+23.0646 浴 yù     : bath; to bathe
+23.0647 欲 yù     : to desire, want, long for; to intend
+23.0648 慾 yù     : lust, desire, passion; appetite
+23.0649 容 róng   : to hold, contain; look, countenance
+23.0650 溶 róng   : to dissolve
+24.0651 當 dāng   : to act as, hold a position; to bear, accept to work as
+24.0652 檔 dàng   : file, records; shelf; frame
+24.0653 黨 dǎng   : party; association; gang; club; society political
+24.0654 常 cháng  : constant, always; often, frequently; enduring
+24.0655 堂 táng   : (main) hall; large room main room
+24.0656 皮 pí     : leather; hide; skin; fur covering
+24.0657 波 bō     : wave; ripple; storm; surge
+24.0658 婆 pó     : grandmother; matron; mother-in-law old woman
+24.0659 破 pò     : to break, split; broken, damaged, worn out
+24.0660 被 bèi    : quilt, blanket; to cover; to wear
+24.0661 歹 dǎi    : bad, wicked, evil; death, decay malicious
+24.0662 列 liè    : to arrange, line up; row, file; series
+24.0663 烈 liè    : intense, ardent
+24.0664 死 sǐ     : death; to die; uncrossable; inflexible; rigid
+24.0665 葬 zàng   : to bury (the dead) to inter
+24.0666 耳 ěr     : ear
+24.0667 取 qǔ     : to take, get, fetch
+24.0668 趣 qù     : interesting; to interest
+24.0669 最 zuì    : (the) most; —est
+24.0670 職 zhí    : office; duty job
+24.0671 聖 shèng  : holy, sacred; saint, sage
+24.0672 敢 gǎn    : dare brave
+24.0673 嚴 yán    : strict, stern, serious, severe; (air or water) tight
+24.0674 曼 màn    : long, large; handsome drawn out
+24.0675 慢 màn    : slow
+24.0676 漫 màn    : free; unrestrained; inundate to overflow
+24.0677 環 huán   : bracelet, ring (not for finger); to surround, loop
+24.0678 還 huán   : to pay back, return to give back
+24.0679 夫 fū     : husband; man
+24.0680 規 guī    : rules, regulations, customs, law
+24.0681 替 tì     : to replace, stand in for, substitute for, take the place of
+24.0682 失 shī    : to lose; to miss, fail
+24.0683 臣 chén   : statesman, courtier, minister, official feudal official
+24.0684 臨 lín    : to be (just) about to, draw near; just before
+24.0685 賢 xián   : worthy (person)
+24.0686 堅 jiān   : firm, solid, strong; unyielding, resolute
+24.0687 力 lì     : power, force, strength
+24.0688 另 lìng   : other, another; separate, separately
+24.0689 別 bié    : do not, must not; separate, other don’t
+24.0690 拐 guǎi   : to turn; kidnap, abduct;
+24.0691 男 nán    : male
+24.0692 功 gōng   : achievement, merit, accomplishment; result
+24.0693 奴 nú     : slave
+24.0694 努 nǔ     : to exert, strive to toil
+24.0695 加 jiā    : to add; plus
+24.0696 賀 hè     : to congratulate
+24.0697 架 jià    : rack, frame, stand; to support, prop up; MW for planes shelf
+24.0698 協 xié    : to cooperate, assist, help; to harmonize
+24.0699 行 háng   : profession; professional; relating to a company line of business
+24.0700 律 lǜ     : law
+24.0701 復 fù     : to recover; to repeat, duplicate; repeatedly
+24.0702 得 děi    : to have to, must, ought to, need to
+24.0703 待 dài    : to treat, deal with
+24.0704 往 wǎng   : towards; to go (in a direction)
+24.0705 微 wēi    : micro, tiny, miniature
+24.0706 街 jiē    : street
+24.0707 德 dé     : morality, ethics, virtue; Germany (abbrev.)
+24.0708 聽 tīng   : to listen, hear, understand; to obey
+24.0709 廳 tīng   : (reception) hall, central room
+25.0710 禾 hé     : cereal, grain standing
+25.0711 程 chéng  : journey; sequence, order
+25.0712 和 hé     : and, (together) with; union, harmony
+25.0713 移 yí     : to shift, change, alter
+25.0714 秋 qiū    : autumn; fall; harvest
+25.0715 愁 chóu   : anxiety; to worry about, be anxious gloomy
+25.0716 利 lì     : profit, advantage, benefit
+25.0717 香 xiāng  : fragrance, incense; scented perfume
+25.0718 季 jì     : season
+25.0719 委 wěi    : to commission, appoint committee
+25.0720 秀 xiù    : elegant; handsome
+25.0721 透 tòu    : to penetrate, pass through, pierce to
+25.0722 誘 yòu    : to entice, tempt
+25.0723 歷 lì     : to experience, undergo; past, history
+25.0724 米 mǐ     : rice
+25.0725 迷 mí     : lost, confused; to bewilder, be crazy
+25.0726 謎 mí     : riddle, puzzle
+25.0727 類 lèi    : kind, type, class, category
+25.0728 竹 zhú    : bamboo
+25.0729 笑 xiào   : laugh; smile
+25.0730 箱 xiāng  : box, trunk, chest
+25.0731 筆 bǐ     : pen, pencil; to write or compose; hanzi strokes
+25.0732 等 děng   : et cetera, and so on; rank, grade
+25.0733 算 suàn   : to calculate, compute, figure
+25.0734 答 dá     : to reply, answer, respond to
+25.0735 策 cè     : method, plan, policy, scheme strategy
+26.0736 人 rén    : man; person, people
+26.0737 囚 qiú    : prisoner
+26.0738 份 fèn    : portion, share, part
+26.0739 佔 zhàn   : to occupy by force, usurp, possess
+26.0740 傢 jiā    : house, home, residence; family furniture
+26.0741 你 nǐ     : you
+26.0742 您 nín    : you [formal] you [respectful]
+26.0743 什 shén   : what?; tenth
+26.0744 修 xiū    : a strip; MV for long, thin things
+26.0745 值 zhí    : value; (to be) worth
+26.0746 做 zuò    : to do, make, produce to make
+26.0747 但 dàn    : however, but, yet, still
+26.0748 住 zhù    : to live, dwell, reside
+26.0749 位 wèi    : position, place, location
+26.0750 件 jiàn   : MW for thing, clothes, item piece
+26.0751 仍 réng   : still, yet
+26.0752 他 tā     : he; him
+26.0753 休 xiū    : to rest
+26.0754 信 xìn    : to believe; sign, evidence faith
+26.0755 依 yī     : depend on; according to
+26.0756 例 lì     : example, precedent, rule, case, instance
+26.0757 個 gè     : individual, single; MW
+26.0758 健 jiàn   : healthy
+26.0759 停 tíng   : to stop, halt; to park (a car)
+26.0760 倒 dǎo    : to fall over, turn over; upset upside down
+26.0761 仁 rén    : humane, benevolence, kindness
+26.0762 優 yōu    : excellent; superior
+26.0763 傷 shāng  : wound, injury;
+26.0764 保 bǎo    : to protect, defend; safeguard, guarantee
+26.0765 堡 bǎo    : stronghold, castle; position of defense fort
+26.0766 付 fù     : to pay
+26.0767 府 fǔ     : prefecture; mansion government office
+26.0768 俯 fǔ     : look down; stoop to bow one’s head
+26.0769 代 dài    : substitute; to replace; to act on behalf of others; to replace ; generation; dynasty; age; period; (historical) era; (geological) eon
+26.0770 袋 dài    : pouch, bag, sack
+26.0771 化 huà    : to transform, make or change into; —ization; to ... —ize;
+26.0772 花 huā    : flower, blossom
+26.0773 貨 huò    : goods, money, commodity
+26.0774 何 hé     : what, why, where, which, how
+26.0775 便 biàn   : expedient, handy; convenience, ease
+26.0776 丈 zhàng  : ten feet 100 chinese inches
+26.0777 使 shǐ    : to use, employ; to enable, cause
+26.0778 久 jiǔ    : a long duration of time; bound-up person
+26.0779 畝 mǔ     : Chinese land measure top-hat rice-field long-time chinese Acre
+26.0780 丙 bǐng   : 3rd (in order), bright, vitamin C
+26.0781 柄 bǐng   : handle, hilt, lever, knob; authority
+26.0782 肉 ròu    : meat; flesh
+26.0783 腐 fǔ     : rotten; decay
+26.0784 眾 zhòng  : multitude, crowd, masses
+26.0785 坐 zuò    : to sit; take a seat
+26.0786 座 zuò    : seat, base, stand; MW for large, solid things
+26.0787 檢 jiǎn   : to check, examine, inspect to
+26.0788 臉 liǎn   : face; reputation
+26.0789 來 lái    : to come, return; coming
+26.0790 麥 mài    : wheat, barley, oats
+26.0791 喝 hē     : to drink
+26.0792 渴 kě     : thirsty
+27.0793 任 rèn    : to appoint, assign
+27.0794 廷 tíng   : palace courtyard royal court
+27.0795 庭 tíng   : court; courtyard court of law
+27.0796 以 yǐ     : so as to; in order to; Israel (abbrev.) by means of
+27.0797 似 sì     : similar; like; to resemble
+27.0798 併 bìng   : to combine, annex
+27.0799 拼 pīn    : piece together, join
+27.0800 呂 lǚ     : surname; a musical note spine
+27.0801 侶 lǚ     : companion; associate with
+27.0802 榮 róng   : glory; honored
+27.0803 勞 láo    : labor, toil, do manual work
+27.0804 營 yíng   : encampment, barracks a camp
+27.0805 善 shàn   : good, virtuous, charitable, kind
+27.0806 年 nián   : "year; one's age"
+27.0807 夜 yè     : night, dark; in night; by night
+27.0808 液 yè     : liquid, fluid
+27.0809 喚 huàn   : to call
+27.0810 換 huàn   : to change, exchange
+28.0811 旅 lǚ     : trip; to travel
+28.0812 施 shī    : to do, execute, carry out
+28.0813 游 yóu    : to swim; float, drift; wander, roam
+28.0814 遊 yóu    : to wander, roam, travel to tour
+28.0815 勿 wù     : do not
+28.0816 忽 hū     : suddenly
+28.0817 物 wù     : thing; object; matter
+28.0818 易 yì     : easy; simple
+28.0819 賜 cì     : confer; bestow; grant
+28.0820 屍 shī    : corpse
+28.0821 尼 ní     : Buddhist nun
+28.0822 呢 ne     : "[question particle], as ""ní"" = woolen material" woolen cloth
+28.0823 泥 ní     : mud, paste
+28.0824 屋 wū     : house; room habitation
+28.0825 握 wò     : to hold, grasp; shake hands to grip
+28.0826 居 jū     : to reside to reside
+28.0827 鋸 jù     : a saw; to saw; to amputate
+28.0828 層 céng   : story (of a building)
+28.0829 局 jú     : office; MW for games bureau
+28.0830 戶 hù     : a household; door; family
+28.0831 房 fáng   : house domicile
+28.0832 雇 gù     : to hire
+28.0833 顧 gù     : to look back; to look after, attend to
+29.0834 示 shì    : to show; reveal
+29.0835 社 shè    : society; group
+29.0836 視 shì    : to look at, regard, inspect to inspect
+29.0837 福 fú     : good fortune, happiness; Fujian Prv. (abbrev)
+29.0838 禁 jìn    : to prohibit, forbid
+29.0839 襟 jīn    : overlapping part of Chinese gown front of a garment
+29.0840 宗 zōng   : sect, clan; lineage, ancestry; ancestor religion
+29.0841 崇 chóng  : esteem, honor, revere, venerate to worship
+29.0842 祭 jì     : offer sacrifice
+29.0843 察 chá    : to examine, observe, inspect, look into to scrutinize
+29.0844 擦 cā     : to wipe, clean (by rubbing), polish; to erase to scrub
+29.0845 由 yóu    : cause, reason; from wherefore
+29.0846 抽 chōu   : to draw out; to pump; to smoke (cigarettes)
+29.0847 油 yóu    : oil; sly
+29.0848 甲 jiǎ    : 1st (in order), grade-A, armor, finger/toenail
+29.0849 押 yā     : to pawn; mortgage; to detain, arrest
+29.0850 申 shēn   : to explain, report, reiterate to express
+29.0851 伸 shēn   : to stretch, extend
+29.0852 神 shén   : G-d, divine essence, soul; spirit
+29.0853 果 guǒ    : fruit; result
+29.0854 課 kè     : subject; class; lesson
+29.0855 顆 kē     : grain, kernel ; MW for small spheres granule
+30.0856 斤 jīn    : catty, apx. 500 grammes catty [half kilogram]
+30.0857 所 suǒ    : place, location a place
+30.0858 近 jìn    : near, close (to); approximately
+30.0859 斬 zhǎn   : to cut, chop, sever; to behead
+30.0860 暫 zàn    : temporary; temporarily
+30.0861 漸 jiàn   : gradual; gradually
+30.0862 質 zhì    : matter, material, substance quality
+30.0863 斥 chì    : to blame; reprove; reprimand
+30.0864 訴 sù     : to complain, accuse; to sue; to inform, tell
+30.0865 乍 zhà    : for the first time; suddenly
+30.0866 怎 zěn    : how?
+30.0867 昨 zuó    : yesterday
+30.0868 作 zuò    : to do; to make
+30.0869 雪 xuě    : snow
+30.0870 急 jí     : hurried; worried anxious
+30.0871 尋 xún    : to search, look for, seek
+30.0872 婦 fù     : married women; woman; wife
+30.0873 掃 sǎo    : to sweep, clear away
+30.0874 錄 lù     : to copy, write down, record
+30.0875 碌 lù     : rough, uneven, rocky; mediocre commonplace
+30.0876 爭 zhēng  : to struggle, fight, contend, strive
+30.0877 淨 jìng   : clean, pure; cleanse
+30.0878 事 shì    : matter, thing, item, work, affair
+30.0879 唐 táng   : Tang dynasty (618-907)
+30.0880 糖 táng   : sugar, sweets; candy
+30.0881 康 kāng   : peaceful, quiet; happy, healthy
+30.0882 尹 yǐn    : to rule overseer
+30.0883 伊 yī     : 3rd pers. pronoun; he, she, this, that iran
+30.0884 君 jūn    : monarch; lord; gentleman; ruler
+30.0885 裙 qún    : skirt
+30.0886 群 qún    : crowd; flock; group
+30.0887 而 ér     : and; and then; and yet; but
+30.0888 需 xū     : to require, need; requirement, necessity, need
+30.0889 儒 rú     : scholar; Confucian confucian
+30.0890 瑞 ruì    : lucky, auspicious, propitious
+30.0891 端 duān   : end, extremity; to hold sth level with both hands upright
+30.0892 曲 qū     : bent, crooked; wrong
+30.0893 斗 dǒu    : Chinese peck (dry measure for grain); cup; funnel big
+30.0894 料 liào   : material, stuff; grain
+30.0895 科 kē     : branch of study; science academic discipline
+30.0896 用 yòng   : to use to utilize
+31.0897 昔 xī     : past; former times
+31.0898 借 jiè    : to lend, borrow; excuse, pretext
+31.0899 錯 cuò    : mistake; error; blunder; fault
+31.0900 散 sǎn    : scatter, disperse, break up scattered
+31.0901 撒 sǎ     : to scatter, release, cast away, let go; to disperse
+31.0902 備 bèi    : to prepare, get ready; to provide or equip
+31.0903 廿 niàn   : twenty
+31.0904 席 xí     : banquet; woven mat
+31.0905 度 dù     : degree, standard; capacity
+31.0906 渡 dù     : to cross, pass through; to ferry
+31.0907 半 bàn    : half; semi—; [number] and a half; half
+31.0908 伴 bàn    : a partner, companion or associate; to accompany
+31.0909 胖 pàng   : fat; plump
+31.0910 判 pàn    : to judge; to sentence
+31.0911 眷 juàn   : wife and children dependents
+31.0912 拳 quán   : fist boxing
+31.0913 勝 shèng  : victorious; victory; to be better than
+31.0914 片 piàn   : a slice; piece; flake; to slice
+31.0915 版 bǎn    : a block of printing; an edition, version, page printing plate
+31.0916 妝 zhuāng : to adorn oneself, dress up, use make-up to put on
+31.0917 壯 zhuàng : to strengthen; strong, robust
+31.0918 莊 zhuāng : farm, village, manor hamlet
+31.0919 裝 zhuāng : clothing, dress, costume attire
+31.0920 將 jiàng  : a military General a general [rank]
+31.0921 之 zhī    : [literary equivalent of 的] of
+31.0922 乏 fá     : short of; tired weary
+31.0923 眨 zhǎ    : wink, blink
+31.0924 不 bù     : not; no; [negative prefix]
+31.0925 否 fǒu    : to negate, deny; not
+31.0926 杯 bēi    : cup, glass; MW for cups of things
+32.0927 矢 shǐ    : arrow, dart
+32.0928 族 zú     : race, nationality, clan, ethnicity tribe
+32.0929 知 zhī    : to know, to be aware
+32.0930 智 zhì    : wisdom; knowledge
+32.0931 矛 máo    : spear, lance, pike
+32.0932 柔 róu    : soft, delicate gentle
+32.0933 揉 róu    : to knead, massage, rub
+32.0934 務 wù     : affair, business, matter tasks
+32.0935 霧 wù     : fog, mist
+32.0936 予 yǔ     : to give to bestow
+32.0937 序 xù     : order, sequence; preface
+32.0938 預 yù     : in advance, beforehand; to prepare
+32.0939 野 yě     : field, plain, open space; rude, wild
+32.0940 班 bān    : class, rank, team; a work shift class
+32.0941 弓 gōng   : a bow (weapon) a bow [for arrows]
+32.0942 引 yǐn    : to pull, draw out, stretch
+32.0943 強 qiáng  : strength; force; power; powerful strong
+32.0944 弱 ruò    : weak, feeble, young
+32.0945 彈 dàn    : bullet, shot, shell
+32.0946 佛 fó     : Buddha; Buddhism
+32.0947 費 fèi    : to cost, fee, expenses
+32.0948 弟 dì     : younger brother
+32.0949 第 dì     : "[prefix or ordering numbers, e.g. ""first"", ""number two"", etc]" no# [number]
+32.0950 巧 qiǎo   : skillful, timely, coincidentally adroit
+33.0951 身 shēn   : body, torso; person somebody
+33.0952 射 shè    : to shoot, eject, issue forth, emit
+33.0953 謝 xiè    : to thank
+33.0954 老 lǎo    : old, aged, experienced; venerable
+33.0955 考 kǎo    : to examine, test; investigate to take an exam
+33.0956 烤 kǎo    : to roast, bake; to broil
+33.0957 孝 xiào   : filial piety
+33.0958 教 jiāo   : to teach
+33.0959 者 zhě    : —ist, —er [person]; person (who does sth) someone
+33.0960 著 zhe    : [particle after verb to indicate action in progress, like —ing] —ing
+33.0961 豬 zhū    : pig, hog, wild boar
+33.0962 追 zhuī   : to chase; pursue (a problem)
+33.0963 帥 shuài  : commander, commander-in-chief
+33.0964 師 shī    : teacher, master, expert, specialist
+33.0965 獅 shī    : lion
+33.0966 官 guān   : official, public servant; government bureaucrat
+33.0967 管 guǎn   : tube; pipe, duct; woodwind music
+33.0968 父 fù     : father
+33.0969 交 jiāo   : mix; to intersect, exchange, to mingle
+33.0970 效 xiào   : result, effect; efficacy, effectiveness
+33.0971 較 jiào   : comparatively; clear, distinct relatively
+33.0972 校 xiào   : school
+33.0973 足 zú     : foot; to be sufficient lower leg
+33.0974 跑 pǎo    : to run; to escape
+33.0975 跳 tiào   : to jump, hop, leap; to skip (a grade)
+33.0976 路 lù     : road, path, way
+33.0977 露 lù     : dew; to show, reveal, expose
+33.0978 骨 gǔ     : bone skeleton
+33.0979 滑 huá    : cunning, slippery, smooth
+33.0980 過 guò    : to cross, go over, pass through
+34.0981 阿 ā      : apollo
+34.0982 啊 ā      : aah!
+34.0983 際 jì     : border, boundary; between, among; interval; occasion
+34.0984 險 xiǎn   : danger(ous); strategic point, narrow pass perilous
+34.0985 隨 suí    : to comply with; to allow as you wish
+34.0986 陽 yáng   : "light; sun; positive (elec.); the 'male' principle" yang
+34.0987 陳 chén   : exhibit, display; to narrate
+34.0988 防 fáng   : to protect, defend, guard (against) to ward off
+34.0989 附 fù     : to attach, be attached, be close to
+34.0990 院 yuàn   : courtyard; institution inst.
+34.0991 陣 zhèn   : column, row or file of troops battle formation
+34.0992 隊 duì    : team, group, squadron, army unit
+34.0993 降 jiàng  : to come down, descend; to fall to descend
+34.0994 階 jiē    : stairs; degree, rank or step
+34.0995 穴 xué    : hole; cave
+34.0996 究 jiū    : to investigate, study carefully research
+34.0997 突 tū     : to dash, move forward quickly; suddenly, abruptly, unexpectedly
+34.0998 空 kōng   : air; sky; empty; in vain
+34.0999 控 kòng   : to control; to accuse, charge
+34.1000 邊 biān   : border, boundary, side, edge; margin
+34.1001 深 shēn   : deep; far, remote
+34.1002 探 tàn    : to explore, scout; to search out, locate a spy
+34.1003 丘 qiū    : hill, mound; Confucius (ie: 孔丘 Kǒng Qiū)
+34.1004 兵 bīng   : soldier, troops, military force
+35.1005 絲 sī     : silk, fine thread; MW a shred or trace of
+35.1006 線 xiàn   : thread, string, line, wire
+35.1007 維 wéi    : to maintain, preserve, hold together
+35.1008 羅 luó    : gauze; net for catching birds silk
+35.1009 續 xù     : to continue, extend, carry on; to replenish
+35.1010 統 tǒng   : to gather, unite; to unify; whole overall
+35.1011 給 gěi    : to give; by, for
+35.1012 結 jié    : to tie, bind, join, connect; knot, node
+35.1013 終 zhōng  : to end, finish; to die; finally, in the end
+35.1014 級 jí     : level, grade, rank, step a rank
+35.1015 紀 jì     : age, era, period; account, historical record epoch
+35.1016 紅 hóng   : red, vermillion; popular; bonus
+35.1017 約 yuē    : to arrange; an agreement, treaty to make an appointment
+35.1018 細 xì     : fine, tiny; slender, thin
+35.1019 緊 jǐn    : tight, taut, firm; tense, nervous; strict
+35.1020 織 zhī    : weave, knit; organize, unite
+35.1021 網 wǎng   : net; network; [eg: 互聯網, hùliánwǎng, Internet]
+35.1022 綠 lǜ     : green; chlorine
+35.1023 彎 wān    : bend, curve; bent
+35.1024 灣 wān    : bay, gulf, cove
+35.1025 戀 liàn   : to feel attached to, long for, yearn for; to love to be enamored of
+35.1026 變 biàn   : to change, transform, become different; rebellion, turn of events
+35.1027 經 jīng   : classics; sacred book, scripture / to pass through / to undergo / warp / longitude / abbr. for economics 經濟|经济 / surname Jing
+35.1028 輕 qīng   : light, easy, frivolous, simple, gentle; neutral, unstressed lightweight
+35.1029 後 hòu    : behind, rear, after; descendents
+35.1030 幾 jǐ     : how many? how much?; a few, some
+35.1031 機 jī     : machine; plane; opportunity, chance
+35.1032 斷 duàn   : to break, sever, interrupt, cut off
+35.1033 繼 jì     : to continue, maintain, carry on; continuously
+35.1034 顯 xiǎn   : prominent, conspicuous; evident; to be apparent obvious
+35.1035 樂 yuè    : "music; [as ""lè"": happy, glad; enjoyable]"
+35.1036 藥 yào    : medicine, drugs, pharmaceuticals; cure
+35.1037 雞 jī     : chicken, fowl
+35.1038 麼 me     : [interrogative suffix] [suffix]; [pause marker]
+35.1039 系 xì     : link, connection; system lineage
+35.1040 係 xì     : to bind, tie up; to involve; connection, relation related to
+35.1041 孫 sūn    : grandson grandchild
+36.1042 卻 què    : to withdraw, go back; retreat; yet, nevertheless
+36.1043 腳 jiǎo   : foot; base, foundation
+36.1044 服 fú     : clothes, dress, garment apparel
+36.1045 命 mìng   : life; fate, destiny
+36.1046 留 liú    : to stay, remain; to detain; to reside in a foreign country
+36.1047 溜 liū    : to slip away, skate, slide to slide
+36.1048 聊 liáo   : to chat, have a chat; to kill time
+36.1049 柳 liǔ    : willow
+36.1050 令 lìng   : to order, command; decree orders
+36.1051 冷 lěng   : cold
+36.1052 零 líng   : zero
+36.1053 領 lǐng   : neck; collar; to lead, usher
+36.1054 通 tōng   : to communicate; common
+36.1055 勇 yǒng   : brave, valiant, courageous
+36.1056 犯 fàn    : to violate, commit crime; criminal
+36.1057 危 wēi    : danger; to endanger
+36.1058 脆 cuì    : brittle, fragile; crisp
+36.1059 印 yìn    : to print; mark, seal, stamp; India (abbrev.)
+36.1060 興 xìng   : interest, excitment; to thrive, flourish
+37.1061 酒 jiǔ    : wine; liquor; spirits
+37.1062 配 pèi    : to allocate, distribute; to fit, match to
+37.1063 酋 qiú    : tribal chief chieftain
+37.1064 尊 zūn    : to honor, respect to venerate
+37.1065 遵 zūn    : to obey, observe, follow to abide by
+37.1066 豆 dòu    : bean; peas
+37.1067 頭 tóu    : head; chief, boss
+37.1068 短 duǎn   : short; lack
+37.1069 禮 lǐ     : social custom; manners; rites ceremony
+37.1070 體 tǐ     : body, form; unit
+37.1071 鼓 gǔ     : drum; to rouse; to beat
+37.1072 喜 xǐ     : to enjoy, be happy, feel pleased; happiness, delight joyful
+37.1073 廚 chú    : kitchen
+37.1074 樹 shù    : tree; set up, establish timber
+37.1075 血 xuè    : blood
+37.1076 盡 jìn    : to use up, exhaust; depleted exhausted
+37.1077 儘 jǐn    : utmost; to the utmost to the
+37.1078 蓋 gài    : lid, top, cover; canopy
+37.1079 溫 wēn    : lukewarm, tepid warm
+37.1080 監 jiān   : to supervise, inspect; to control, direct to supervise
+37.1081 籃 lán    : basket; goal
+37.1082 藍 lán    : blue
+37.1083 銀 yín    : silver; cash, money
+37.1084 跟 gēn    : heel; to follow, accompany;
+37.1085 很 hěn    : very, rather, quite
+37.1086 根 gēn    : root; basis
+37.1087 即 jí     : right away, immediately; namely
+37.1088 節 jié    : festival; knot; node; segment holiday
+37.1089 退 tuì    : retreat; to move back, withdraw
+37.1090 腿 tuǐ    : leg
+37.1091 限 xiàn   : limit; bound
+37.1092 眼 yǎn    : eye; eyelet, hole, opening
+37.1093 良 liáng  : good, very much; virtuous, respectable high-quality
+37.1094 浪 làng   : wave; unrestrained, wasteful breakers
+37.1095 娘 niáng  : mother; wife mom
+37.1096 食 shí    : animal feed; eat; food
+37.1097 飯 fàn    : cooked rice; food, meal
+37.1098 餐 cān    : eat, dine; meal; food to
+37.1099 館 guǎn   : house; establishment, public building bldg.
+37.1100 養 yǎng   : to raise, rear, keep
+37.1101 既 jì     : already; since; de facto
+37.1102 概 gài    : general; approximate approximate
+38.1103 平 píng   : flat, level, even; to tie, draw; even**
+38.1104 評 píng   : to comment, criticize, judge to evaluate
+38.1105 坪 píng   : level ground; a plain
+38.1106 乎 hū     : (interrogative or exclamatory particle ) ooh!
+38.1107 呼 hū     : to shout, cry; to breath out, exhale to shout
+38.1108 希 xī     : rare; hope, expect, strive for to hope
+38.1109 稀 xī     : diluted; sparse scarce
+38.1110 學 xué    : learn, learning, study; science; -ology to study
+38.1111 覺 jué    : to feel, find that; conscious, aware; to wake up from sleep senses
+38.1112 攪 jiǎo   : to mix, stir; to disturb, annoy to stir
+38.1113 凶 xiōng  : bad, terrible, ominous; culprit; murder sinister
+38.1114 兇 xiōng  : atrocious, ferocious, brutal, fierce cruel
+38.1115 胸 xiōng  : chest, bosom, heart; mind
+38.1116 離 lí     : to leave, depart, go away; from
+38.1117 禽 qín    : birds; fowl
+38.1118 辛 xīn    : bitter; pungent, laborious peppery
+38.1119 辦 bàn    : to manage, handle, go about, run, deal with
+38.1120 辯 biàn   : dispute, debate; to argue, discuss
+38.1121 壁 bì     : wall; rampart partition
+38.1122 避 bì     : avoid, shun, flee, escape; to keep away, hide to evade
+38.1123 新 xīn    : new; newly
+38.1124 薪 xīn    : fuel, firewood; salary
+38.1125 親 qīn    : relation, closely related; dear; intimate relatives
+38.1126 襯 chèn   : underwear; inner garments
+38.1127 幸 xìng   : fortunate; lucky good fortune
+38.1128 執 zhí    : to execute (a plan); grasp to clench
+38.1129 報 bào    : to announce, inform; report, newspaper
+38.1130 叫 jiào   : to call, be called; to order
+38.1131 收 shōu   : to receive, accept, collect
+38.1132 陸 lù     : shore, land; continental
+38.1133 勢 shì    : power, force; influence; tendency
+38.1134 熱 rè     : heat; to heat up; fervent, hot (of weather)
+38.1135 藝 yì     : skill; art technique
+38.1136 亥 hài    : PIG; sign of the hog
+38.1137 核 hé     : nuclear; atomic nucleus
+38.1138 孩 hái    : child tot
+38.1139 刻 kè     : to carve, engrave; quarter (hour)
+38.1140 該 gāi    : should, ought to, need to
+38.1141 述 shù    : to tell, narrate, relate to
+38.1142 術 shù    : art, skill, method, technique
+38.1143 殺 shā    : to kill, murder; to slaughter
+38.1144 襄 xiāng  : to assist, help to aid
+38.1145 讓 ràng   : to yield, allow; let, permit
+38.1146 壤 rǎng   : soil; earth territory
+38.1147 寒 hán    : cold, poor; to tremble frigid
+38.1148 賽 sài    : to compete; competition, match
+39.1149 毒 dú     : poison, venom; poisonous
+39.1150 素 sù     : plain; vegetarian; formerly, normally vegetarian diet
+39.1151 青 qīng   : green (blue, black); Qinghai Prv. (abbrev.) blue or green
+39.1152 精 jīng   : refined, perfect; essence; semen
+39.1153 請 qǐng   : to invite, request; please (do sth)
+39.1154 情 qíng   : feeling; emotion; passion feelings
+39.1155 睛 jīng   : eye, eyeball; pupil
+39.1156 清 qīng   : clear, distinct, pure
+39.1157 靜 jìng   : still, calm, quiet, motionless
+39.1158 責 zé     : duty, responsibility; to blame
+39.1159 績 jì     : merit, accomplishment, achievements
+39.1160 積 jī     : to amass, accumulate; long-standing
+39.1161 表 biǎo   : surface, exterior; to show, express
+39.1162 錶 biǎo   : a watch, clock
+39.1163 生 shēng  : life; to be born, give birth
+39.1164 星 xīng   : star; satellite
+39.1165 姓 xìng   : surname; family name; name
+39.1166 性 xìng   : sex; nature; suffix: —ness or —ity
+39.1167 害 hài    : harm; calamity; to cause trouble to
+39.1168 割 gē     : cut off
+39.1169 慧 huì    : intelligent
+39.1170 豐 fēng   : abundant, lush, bountiful, plenty
+39.1171 春 chūn   : spring(time); festive, joyful
+39.1172 泰 tài    : safe, peaceful; Thai(land); exalted, grand tranquil
+39.1173 奉 fèng   : to offer (tribute), pay respect, revere, esteem (ancestor, diety, etc.)
+39.1174 棒 bàng   : a stick, club or cudgel cudgel
+39.1175 勤 qín    : industrious, diligent; frequent
+39.1176 謹 jǐn    : cautious, prudent careful
+39.1177 僅 jǐn    : barely; only, just, merely
+39.1178 漢 hàn    : Chinese; the Han dynasty (202 BCE–220 CE) han
+39.1179 難 nán    : difficult (to...), arduous; problem, difficulty
+39.1180 攤 tān    : "spread out, apportion ; vendor's stand" vendor’s stand
+39.1181 華 huá    : "magnificence; splendid; another name for ""China"" (華夏; Huáxià)" splendor
+39.1182 嘩 huá    : clamor, noise; cat-calling sound
+39.1183 垂 chuí   : to hang (down), droop, dangle to droop
+39.1184 錘 chuí   : to hammer; hammer
+39.1185 睡 shuì   : to sleep
+40.1186 今 jīn    : today; present, current, now
+40.1187 含 hán    : to keep; to contain to harbor
+40.1188 念 niàn   : to read aloud; think of, recall to miss
+40.1189 陰 yīn    : "dark, secret; negative (elec.); the 'female' principle" yin
+40.1190 蔭 yìn    : shade; shelter shady
+40.1191 西 xī     : west, the west; western, westward
+40.1192 要 yào    : to want; must; important, vital; old-west woman
+40.1193 腰 yāo    : waist, middle; lower back; part-of-body want
+40.1194 票 piào   : ticket; slip of paper, bank note; old-west altar
+40.1195 漂 piào   : to float, drift; tossed about to drift
+40.1196 標 biāo   : sign, label, indication; to mark a mark; tree ticket
+40.1197 賈 gǔ     : merchant; to buy
+40.1198 價 jià    : price; value
+40.1199 煙 yān    : cigarette; tobacco, smoke
+40.1200 南 nán    : south, the south; southern, southward
+41.1201 門 mén    : gate, door, entrance, opening
+41.1202 們 men    : [plural pronoun marker]
+41.1203 閒 xián   : leisure; not busy; to stay idle, be unoccupied
+41.1204 問 wèn    : to ask, ask about, inquire after to ask
+41.1205 間 jiàn   : interval, space, interstice; place, between
+41.1206 簡 jiǎn   : simple, terse, succinct
+41.1207 開 kāi    : open; operate or start (vehicle) to
+41.1208 聞 wén    : hear; sniff at to
+41.1209 倉 cāng   : granary, storehouse, barn storehouse
+41.1210 槍 qiāng  : gun, firearm, rifle
+41.1211 創 chuàng : start, begin, initiate, inaugurate
+41.1212 非 fēi    : not, negative, wrong, non—, un— non—
+41.1213 排 pái    : row, rank, line; to line up
+41.1214 罪 zuì    : guilt, blame; crime, fault, sin
+41.1215 靠 kào    : depend upon, lean on; to support; near, by, against
+41.1216 侯 hóu    : marquis, lord; target in archery
+41.1217 候 hòu    : to wait; expect to wait
+41.1218 決 jué    : to decide, determine
+41.1219 快 kuài   : fast, quick, swift
+41.1220 筷 kuài   : chopstick
+41.1221 韋 wéi    : soft leather, tanned leather tanned hide
+41.1222 圍 wéi    : to circle, surround, encircle, corral
+41.1223 偉 wěi    : big, large, great
+41.1224 衛 wèi    : to guard, protect, defend
+42.1225 干 gān    : to oppose, interfere, invade to offend
+42.1226 岸 àn     : bank, shore, beach, coast
+42.1227 幹 gàn    : trunk (tree or body), main part of something
+42.1228 旱 hàn    : drought
+42.1229 趕 gǎn    : to rush, hurry; to catch up, overtake, pursue to hurry
+42.1230 于 yú     : [a common surname] yu
+42.1231 宇 yǔ     : house; building, structure; eaves
+42.1232 余 yú     : "I, my me (imperial usage akin to the royal ""we"")" moi
+42.1233 餘 yú     : extra, surplus; in excess of
+42.1234 除 chú    : to remove, do away with, wipe out to eliminate
+42.1235 途 tú     : way, route, road
+42.1236 束 shù    : to bind, control, bundle to
+42.1237 速 sù     : fast, rapid, quick
+42.1238 辣 là     : hot (spicy); pungent spicy
+42.1239 整 zhěng  : whole, complete, entire; orderly
+42.1240 練 liàn   : "to practice, train, drill; to perfect (one's skill)"
+42.1241 揀 jiǎn   : to choose, select; to pick up
+42.1242 重 zhòng  : heavy; serious
+42.1243 懂 dǒng   : to know, understand to
+42.1244 動 dòng   : to move; movement, action
+42.1245 種 zhǒng  : kind, type, race, breed, species
+42.1246 衝 chōng  : to dash against, rush against, charge ahead
+41.1247 病 bìng   : ailment, sickness, illness, disease; fall ill
+41.1248 痛 tòng   : ache, pain, sorrow
+41.1249 瘋 fēng   : insane; mad; wild; mentally ill
+41.1250 匹 pī     : mate; one of a pair
+41.1251 區 qū     : area, region, district
+41.1252 樞 shū    : hinge; pivot
+41.1253 歐 ōu     : Europe
+41.1254 醫 yī     : doctor, medicine; medical; to cure, treat physician
+41.1255 仰 yǎng   : "to look up, raise one's head"
+41.1256 迎 yíng   : to receive, welcome, greet
+41.1257 登 dēng   : to scale, climb, mount, ascend
+41.1258 燈 dēng   : lamp; light
+41.1259 證 zhèng  : proof, evidence; to confirm
+41.1260 發 fā     : to send out, issue, dispatch
+41.1261 廢 fèi    : to terminate, abolish, discard
+44.1262 形 xíng   : form, shape; to appear, look
+44.1263 影 yǐng   : reflection, shadow; picture, image
+44.1264 彩 cǎi    : hue, color
+44.1265 須 xū     : must, have to, necessary to
+44.1266 珍 zhēn   : precious thing, treasure
+44.1267 參 cān    : to take part in, join, participate; ginseng
+44.1268 慘 cǎn    : miserable, wretched, sad, pitiful
+44.1269 条 xi     : to repair; to cultivate; to study
+44.1270 文 wén    : literature, culture, writing
+44.1271 蚊 wén    : mosquito
+44.1272 彥 yàn    : accomplished, learned; elegant
+44.1273 顏 yán    : countenance, face, color
+44.1274 產 chǎn   : products, resources, property; to bring forth, give birth
+44.1275 率 shuài  : ratio; rate; limit; to lead
+44.1276 摔 shuāi  : to fall, stumble, trip
+44.1277 央 yāng   : center; beg
+44.1278 英 yīng   : brave; England
+44.1279 巴 bā     : to greatly desire, anxiously hope; Palestine (abbrev.)
+44.1280 把 bǎ     : to hold, take hold of, grasp
+44.1281 爸 bà     : father, dad,
+44.1282 吧 bā     : "onomatopoeic attempt at ""bar"" (cp: ""bar-girl"", 吧女; bānǚ)"
+44.1283 色 sè     : color; look, appearance
+44.1284 絕 jué    : to cut short, break off, discontinue; extinct
+45.1285 甘 gān    : sweet; Qinghai Prv. (abbrev.)
+45.1286 某 mǒu    : a certain thing, such and such, so and so
+45.1287 其 qí     : his; her; its; their;
+45.1288 期 qī     : a period of time; phase, stage, term
+45.1289 基 jī     : base, foundation
+45.1290 斯 sī     : "this, thus, such; [emphatic particle]; 斯芬克斯 (sīfēnkèsī) = ""Sphinx""."
+45.1291 甚 shèn   : very; extremely tremendously
+45.1292 貴 guì    : expensive, precious, noble
+45.1293 遺 yí     : to lose, leave behind
+45.1294 舞 wǔ     : dance; to dance
+45.1295 無 wú     : none, not; to lack; —less; un—
+45.1296 撫 fǔ     : to comfort, caress
+45.1297 且 qiě    : further, moreover
+45.1298 姐 jiě    : older sister
+45.1299 組 zǔ     : group; to form, compose, organize group
+45.1300 祖 zǔ     : ancestor, forefather
+45.1301 助 zhù    : to help, assist
+46.1302 並 bìng   : equal to; side by side; what is more
+46.1303 普 pǔ     : general, popular, universal
+46.1304 業 yè     : business, occupation; study
+46.1305 對 duì    : correct, right; facing, opposed
+46.1306 共 gòng   : all together, in common
+46.1307 供 gōng   : to supply, provide for; to offer in worship
+46.1308 異 yì     : different; unusual, strange
+46.1309 巷 xiàng  : alley, lane
+46.1310 港 gǎng   : harbor; Hong Kong (abbrev.)
+46.1311 選 xuǎn   : to choose, pick, select; to elect
+47.1312 井 jǐng   : well, mine shaft, pit
+47.1313 亞 yà     : Asia, Asian;
+47.1314 惡 è      : evil, wicked, bad, foul
+47.1315 角 jiǎo   : angle, corner; horn, horn-shaped
+47.1316 解 jiě    : to separate, divide; to loosen, untie
+47.1317 嘴 zuǐ    : mouth orifice
+47.1318 再 zài    : once more, again, next (in sequence)
+47.1319 稱 chēng  : to weigh, estimate; to call, address
+47.1320 講 jiǎng  : to speak, discuss, explain; speech
+47.1321 構 gòu    : to construct, form; frame, structure
+47.1322 扁 biǎn   : flat; tablet; inscription
+47.1323 篇 piān   : sheet, piece of writing, chapter, article
+47.1324 編 biān   : to arrange, edit, compile; knit
+47.1325 論 lùn    : to discuss; debate; theory
+47.1326 輪 lún    : wheel; revolve, turn; recur
+47.1327 典 diǎn   : canon; dictionary
+48.1328 氏 shì    : clan; maiden name family
+48.1329 紙 zhǐ    : paper
+48.1330 昏 hūn    : dusk, nightfall, twilight, dark
+48.1331 婚 hūn    : marriage; wedding; to marry, take a wife
+48.1332 低 dī     : low, beneath; to hang down, let droop
+48.1333 底 dǐ     : bottom, base; underside
+48.1334 民 mín    : the people; nationality; citizen
+48.1335 眠 mián   : sleep the slumber
+48.1336 甫 fǔ     : just; just now
+48.1337 補 bǔ     : to repair, patch, mend, fix
+48.1338 博 bó     : extensive, abundant, rich; to gamble
+48.1339 搏 bó     : fight; combat; seize
+48.1340 都 dū     : metropolis; capital city
+48.1341 部 bù     : ministry, department, section
+48.1342 郎 láng   : a youth young man
+48.1343 鄉 xiāng  : country; village countryside
+48.1344 響 xiǎng  : make sound, make noise; sound
+49.1345 段 duàn   : paragraph; section, segment
+49.1346 鍛 duàn   : to forge, temper; wrought
+49.1347 幻 huàn   : fantasy, illusion, mirage
+49.1348 司 sī     : take charge of, control, manage
+49.1349 詞 cí     : words; phrase, expression
+49.1350 舟 zhōu   : boat
+49.1351 船 chuán  : a boat; vessel; ship
+49.1352 般 bān    : sort; kind; class the
+49.1353 盤 pán    : dish, tray, plate
+49.1354 搬 bān    : to move, shift, transfer
+49.1355 瓜 guā    : gourd, squash, melon
+49.1356 孤 gū     : lone, lonely orphan
+50.1357 益 yì     : benefit, increase
+50.1358 假 jià    : vacation
+50.1359 蝦 xiā    : shrimp, prawn
+50.1360 氣 qì     : "steam, gas, air;
+50.1361 汽 qì     : steam, vapor
+50.1362 飛 fēi    : to fly
+50.1363 面 miàn   : face; surface; plane; side, dimension
+50.1364 麵 miàn   : flour, dough, noodles
+50.1365 革 gé     : leather, animal hide leather 巩鞏恐
+50.1366 鞋 xié    : shoe
+50.1367 馨 xīn    : fragrant, aromatic
+50.1368 聲 shēng  : sound, tone; voice
+50.1369 吳 wú     : Jiangsu Prv., common surname wu
+50.1370 娛 yú     : amuse, pleasure, enjoyment
+50.1371 誤 wù     : mistake, error; to neglect, miss
+50.1372 承 chéng  : to undertake, take charge; to bear, carry
+50.1373 蒸 zhēng  : to steam
+51.1374 牙 yá     : tooth, fang; ivory
+51.1375 穿 chuān  : to pass through, pierce, perforate, penetrate
+51.1376 呀 ya     : [particle to express surprise] wow!
+51.1377 釋 shì    : to explain, elucidate, interpret
+51.1378 番 fān    : deeds; MW for acts a try
+51.1379 翻 fān    : to turn over; to flit about
+51.1380 播 bō     : to sow, scatter, spread; to broadcast
+51.1381 毛 máo    : hair, fur
+51.1382 尾 wěi    : tail
+51.1383 宅 zhái   : residence a dwelling
+51.1384 託 tuō    : to entrust, rely on
+51.1385 為 wèi    : to do, handle, govern, act; because of
+51.1386 偽 wěi    : fake, false, counterfeit, bogus
+51.1387 長 cháng  : long, forever, always; constantly; length
+51.1388 張 zhāng  : to stretch, extend, expand; to open up
+51.1389 漲 zhàng  : to swell, inflate; rise in price
+51.1390 套 tào    : to cover; covering, sheath, envelope
+51.1391 髮 fà     : hair
+51.1392 展 zhǎn   : to unfold, spreadout; to postpone
+51.1393 喪 sàng   : to lose (by death), mourn; mourning; funeral
+52.1394 雁 yàn    : wild goose
+52.1395 應 yīng   : should, ought to, must
+52.1396 鳥 niǎo   : bird
+52.1397 鷹 yīng   : hawk; falcon; eagle
+52.1398 鴨 yā     : duck
+52.1399 島 dǎo    : island
+52.1400 遇 yù     : to meet with; encounter
+52.1401 萬 wàn    : ten thousand; a great number; innumerable
+52.1402 邁 mài    : to take a step; a big stride
+52.1403 岡 gāng   : ridge; mound ridge of a hill
+52.1404 剛 gāng   : hard, firm, tough, rigid, strong just now
+52.1405 缺 quē    : to run short of, lack; gap, deficit
+52.1406 寶 bǎo    : a jewel or gem; a treasure; precious, rare
+52.1407 遙 yáo    : distant, remote, far, far away
+52.1408 搖 yáo    : to shake, rock
+52.1409 兔 tù     : rabbit
+52.1410 逸 yì     : to flee, escape, break loose
+52.1411 免 miǎn   : to avoid, evade
+52.1412 晚 wǎn    : night, evening; late
+52.1413 象 xiàng  : elephant
+52.1414 像 xiàng  : appearance, image; (look) like; similar (to); to resemble
+53.1415 馬 mǎ     : horse; knight (in chess)
+53.1416 媽 mā     : ma; mother
+53.1417 罵 mà     : to scold; to curse, blame
+53.1418 嗎 ma     : [question marker] yes or no
+53.1419 驗 yàn    : to check, test, examine, inspect
+53.1420 騎 qí     : to ride (an animal or bike); to sit astride
+53.1421 驚 jīng   : to be scared, frightened; startled
+53.1422 虎 hǔ     : tiger
+53.1423 慮 lǜ     : to be concerned, worry about
+53.1424 處 chù    : location, place, spot; bureau, department
+53.1425 戲 xì     : theatrical play, show
+53.1426 劇 jù     : drama; play; show
+53.1427 據 jù     : according to; to act
+53.1428 鹿 lù     : deer
+53.1429 塵 chén   : dust; ashes, dirt, earth
+53.1430 麗 lì     : beautiful, elegant lovely
+53.1431 熊 xióng  : bear; to scold, rebuke
+53.1432 能 néng   : can, may, able; capable
+53.1433 態 tài    : attitude, manner, bearing
+54.1434 寅 yín    : to respect, reverence sign of the tiger
+54.1435 演 yǎn    : to practice, perform; to act
+54.1436 辰 chén   : heavenly body, early morning sign of the dragon
+54.1437 晨 chén   : morning; dawn, daybreak
+54.1438 農 nóng   : agriculture, farming
+54.1439 濃 nóng   : concentrated; thick, dense
+54.1440 送 sòng   : to deliver; to see off, send, dispatch
+54.1441 鬼 guǐ    : ghost, demon, spirit of the dead
+54.1442 魔 mó     : devil, demon
+54.1443 塊 kuài   : piece, chunk, lump; dollar
+54.1444 龍 lóng   : dragon; imperial
+54.1445 襲 xí     : raid, attack; inherit
+55.1446 兒 ér     : son, child youngster
+55.1447 舊 jiù    : old (opposite of new); ancient, former, past
+55.1448 寫 xiě    : to write, compose; to draw, sketch
+55.1449 瀉 xiè    : to flow (out) swiftly, leak; diarrhea
+55.1450 兩 liǎng  : two, both, pair, couple
+55.1451 倆 liǎ    : two; both duo
+55.1452 滿 mǎn    : full, filled, satisfied; Manchurian
+55.1453 爾 ěr     : thou; that, those you [literary]
+55.1454 彌 mí     : full; to fill
+55.1455 虛 xū     : false; empty, vain
+55.1456 聯 lián   : to ally, unite, join
+55.1457 關 guān   : to close, shut; to turn off
+55.1458 那 nà     : that, that one, those
+55.1459 哪 nǎ     : which; how
+55.1460 巫 wū     : witch
+55.1461 靈 líng   : spirit, soul; spiritual world
+55.1462 縣 xiàn   : a district; county
+55.1463 懸 xuán   : to hang, suspend
+55.1464 與 yǔ     : to give, grant; together with
+55.1465 舉 jǔ     : to lift, hold up, raise; to cite
+55.1466 腦 nǎo    : brain
+55.1467 惱 nǎo    : to get mad; vexed
+55.1468 專 zhuān  : special, specialized; expert; particular (to sth);
+55.1469 傳 chuán  : to spread, transmit, infect; to circulate, conduct
+55.1470 轉 zhuàn  : to revolve, turn, circle
+55.1471 團 tuán   : group, regiment, troupe
+55.1472 黃 huáng  : yellow
+55.1473 廣 guǎng  : numerous, wide; to spread
+55.1474 橫 héng   : horizontal; across
+55.1475 窗 chuāng : window; shutter
+55.1476 總 zǒng   : overall, general
+55.1477 詹 zhān   : verbose, talk too much
+55.1478 擔 dàn    : carry, bear, undertake; shoulder responsibility
+55.1479 數 shù    : number, figure; to count, calculate
+55.1480 樓 lóu    : structure with more than one story multistory
+55.1481 獨 dú     : alone, independent, single, sole, only
+55.1482 屬 shǔ    : belong to; be subordinate to
+55.1483 爛 làn    : rotten, spoiled, decayed
+55.1484 蘭 lán    : orchid
+55.1485 從 cóng   : from; obey, follow
+55.1486 縱 zòng   : vertical; north-south lines of longitude; to indulge
+55.1487 齊 qí     : even, uniform, of equal length; to make even
+55.1488 濟 jì     : help, aid, relieve
+55.1489 丑 chǒu   : unsightly, ugly; clown, comedian
+55.1490 扭 niǔ    : to turn, twist;, wring
+55.1491 卑 bēi    : low, base, vulgar, humble, inferior
+55.1492 牌 pái    : signboard, placard a brand (trademark)
+55.1493 號 hào    : day of a month; (suffix used after) name of a ship; (ordinal) number appellation
+55.1494 怪 guài   : strange, unusual, peculiar
+55.1495 赤 chì    : red, scarlet; bare, naked crimson
+55.1496 亦 yì     : also, too; likewise
+55.1497 極 jí     : extremely; utmost; pole (geography)
+55.1498 雜 zá     : mixed, blended, miscellaneous, various; to mix
+55.1499 曰 yuē    : to speak, say (older style) sayeth
+55.1500 亂 luàn   : in confusion, disorderly; state of chaos
